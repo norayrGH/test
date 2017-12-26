@@ -7,7 +7,7 @@ public class Main extends Thread {
         str.concat(".com");
         str = str.toUpperCase();
         str.replace("TONIGHT","today");
-        System.out.println(str);
+        System.out.println(str); /* sadadaw*/
     }
     public void run()
     {
